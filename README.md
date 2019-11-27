@@ -3,7 +3,7 @@
 This is a first example on Python basics.
 We can use Python as a calculator
 2+3
->>> 5
+\>\>\> 5
 
 Here comes the power of variables
 x = 12
